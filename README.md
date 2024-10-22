@@ -4,4 +4,4 @@
 
 xxxxxxxxxxxxxxxxxxxxxxxxx
 
-編集を加えてみました
+編集を加えてみました.
